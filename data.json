@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CC001",
+    "name": "Sen Đá Nâu",
+    "category": "sen-da",
+    "tags": ["sen da", "cay de ban", "nho xinh", "de cham"],
+    "price": "35.000đ",
+    "image": "https://placeholder.com",
+    "description": "Sen đá nâu mang ý nghĩa bền bỉ, hợp phong thủy."
+  },
+  {
+    "id": "CC002",
+    "name": "Hoa Lan Hồ Điệp Trắng",
+    "category": "hoa-lan",
+    "tags": ["hoa lan", "sang trong", "khai truong", "mau trang"],
+    "price": "250.000đ",
+    "image": "https://placeholder.com",
+    "description": "Vẻ đẹp thanh tao, quý phái cho không gian phòng khách."
+  },
+  {
+    "id": "CC003",
+    "name": "Cây Kim Tiền",
+    "category": "cay-van-phong",
+    "tags": ["cay van phong", "phong thuy", "may man", "cay xanh"],
+    "price": "120.000đ",
+    "image": "https://placeholder.com",
+    "description": "Cây mang lại tài lộc, rất dễ sống trong môi trường máy lạnh."
+  }
+]
