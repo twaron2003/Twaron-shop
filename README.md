@@ -1,9 +1,6 @@
 # Twaron Shop 🌿
 
-Website bán cây cảnh mini.
-
-## Demo
-https://your-username.github.io/your-repo/
+- Website bán đủ thứ trên đời
 
 ## Tính năng
 - Tìm kiếm sản phẩm
